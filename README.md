@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**arnav25102004/arnav25102004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💀 ARNAV — SYSTEMS DON'T BREAK. I BREAK WHAT'S WRONG WITH THEM.
 
-Here are some ideas to get you started:
+**MCA Student at Christ University | Aspiring Full-Stack Developer| Open Source Contributor**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*I don't just ship features — I eliminate technical debt, enforce type safety at scale, and make CI pipelines bow.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnavnarula25/)
+
+
+---
+
+</div>
+
+
+
