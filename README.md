@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💀 ARNAV — SYSTEMS DON'T BREAK. I BREAK WHAT'S WRONG WITH THEM.
+#  ARNAV NARULA — SYSTEMS DON'T BREAK. I BREAK WHAT'S WRONG WITH THEM.
 
 **MCA Student at Christ University | Aspiring Full-Stack Developer| Open Source Contributor**
 
