@@ -11,6 +11,12 @@
 
 ---
 
+<p align="left">
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arnav25102004&show_icons=true&locale=en" alt="arnav25102004" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arnav25102004&" alt="arnav25102004" /></p>
 </div>
 
 
