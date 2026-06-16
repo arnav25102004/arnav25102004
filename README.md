@@ -18,5 +18,5 @@
 
 </div>
 
-<a> arnavnarula.dev</a>
+<a href="https://arnavnarula.dev">Portfolio</a>   
 
