@@ -282,16 +282,16 @@ My interests lie at the intersection of **Full-Stack Development**, **AI/LLM Eng
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=arnav25102004&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arnav25102004&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ## 📈 Contribution Graph
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arnav25102004&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -317,7 +317,7 @@ My interests lie at the intersection of **Full-Stack Development**, **AI/LLM Eng
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/arnav25102004/arnav2510204/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
