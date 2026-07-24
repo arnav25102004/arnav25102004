@@ -1,33 +1,11 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30&text=Arnav%20Narula&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20AI%2FML%20Engineer%20•%20Open%20Source%20Contributor&descAlignY=56&descSize=18"/>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Applications;Full-Stack+Developer;Exploring+RAG+%26+Multi-Agent+Systems;Open+Source+Contributor+at+Oppia+Foundation;MCA+Student+%40+CHRIST+University"
-    alt="Typing SVG">
-</p>
-
-<br>
-
-<a href="https://github.com/arnav25102004">
-<img src="https://img.shields.io/badge/arnav25102004-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnavnarula25/">
-<img src="https://img.shields.io/badge/LinkedIn-Arnav%20Narula-0A66C2?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="mailto:arnavnarula25@gmal.com">
-<img src="https://img.shields.io/badge/Email-arnavnarula25@gmial.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:24243e&text=Arnav%20Narula&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20AI%2FML%20Engineer%20•%20Open%20Source%20Contributor&descAlignY=56&descSize=18&fontFamily=JetBrains+Mono"/> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Applications;Full-Stack+Developer;Exploring+RAG+%26+Multi-Agent+Systems;Open+Source+Contributor+at+Oppia+Foundation;MCA+Student+%40+CHRIST+University" alt="Typing SVG"> </p> <br> <a href="https://github.com/arnav25102004"> <img src="https://img.shields.io/badge/GitHub-arnav25102004-181717?style=for-the-badge&logo=github"> </a> <a href="https://www.linkedin.com/in/arnavnarula25/"> <img src="https://img.shields.io/badge/LinkedIn-Arnav%20Narula-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="mailto:arnavnarula25@gmail.com"> <img src="https://img.shields.io/badge/Email-arnavnarula25%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"> </a> <a href="https://arnavnarula.dev"> <img src="https://img.shields.io/badge/Portfolio-arnavnarula.dev-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"> </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=arnav25102004&style=for-the-badge&color=blueviolet"/>
-
-</div>
+<img src="https://komarev.com/ghpvc/?username=arnav25102004&style=for-the-badge&color=8B5CF6"/> </div>
 
 ---
 
@@ -315,11 +293,7 @@ My interests lie at the intersection of **Full-Stack Development**, **AI/LLM Eng
 
 # 🐍 Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/arnav25102004/arnav2510204/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
+<div align="center"> <img src="https://raw.githubusercontent.com/arnav25102004/arnav25102004/output/github-contribution-grid-snake-dark.svg"/> </div>
 
 ---
 
@@ -327,14 +301,13 @@ My interests lie at the intersection of **Full-Stack Development**, **AI/LLM Eng
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+[![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
 ---
 
-# 🤝 Let's Connect
-
+🤝 Let's Connect
 <div align="center">
 
 I'm always interested in discussing
@@ -349,22 +322,9 @@ I'm always interested in discussing
 
 📫 Reach me anytime 👇
 
-<a href="mailto:arnavnarula25@gmail.com">
-<img src="https://img.shields.io/badge/Email-Drop_a_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<a href="mailto:arnavnarula25@gmail.com"> <img src="https://img.shields.io/badge/Email-Drop_a_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/arnavnarula25/"> <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://arnavnarula.dev"> <img src="https://img.shields.io/badge/Portfolio-arnavnarula.dev-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/> </a> </div> <div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f0c29,50:302b63,100:24243e"/>
+⭐ Thanks for visiting!
 
-<a href="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnavnarula25/">
-<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="https://arnavnarula.dev">Portfolio</a>   
-</div>
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient&customColorList=12,20,24,30"/>
-
-### ⭐ Thanks for visiting!
-
-*"Build. Contribute. Compete. Repeat."*
+"Build. Contribute. Compete. Repeat."
 
 </div>
