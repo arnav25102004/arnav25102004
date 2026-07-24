@@ -15,12 +15,12 @@
 <img src="https://img.shields.io/badge/arnav25102004-181717?style=for-the-badge&logo=github">
 </a>
 
-<a href="<a href="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnavnarula25/">">
+<a href="<a href="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnavnarula25/">
 <img src="https://img.shields.io/badge/LinkedIn-Arnav%20Narula-0A66C2?style=for-the-badge&logo=linkedin">
 </a>
 
 <a href="mailto:arnavnarula25@gmal.com">
-<img src="https://img.shields.io/badge/Email-arnav.narula%40mca.christuniversity.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Email-arnavnarula25@gmial.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <br><br>
