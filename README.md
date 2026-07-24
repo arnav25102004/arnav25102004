@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/arnav25102004-181717?style=for-the-badge&logo=github">
 </a>
 
-<a href="<a href="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnavnarula25/">
+<a href="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnavnarula25/">
 <img src="https://img.shields.io/badge/LinkedIn-Arnav%20Narula-0A66C2?style=for-the-badge&logo=linkedin">
 </a>
 
